@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>CampusDual</h2>
-    <p>Este es un párrafo de ejemplo <strong>Esta parte del texto está en negrita</strong> y esta otra está en negrita también</p>
+    <p>Este es un párrafo de ejemplo <strong>Esta parte del texto está en negrita</strong>y<strong>esta otra está en negrita también</strong></p>
     <p>Este es otro párrafo de ejemplo</p>
     <ul>
         <li>Elemento de la lista 1</li>
@@ -19,6 +19,6 @@
         <li>Segundo elemento numerado</li>
         <li>Tercer elemento numerado</li>
     </ol>
-    <a href="https://as.com">Ejemplo</a>
+    <a href="https://as.com">Nos vamos para la web de deportes mi rey</a>
 </body>
 </html>
