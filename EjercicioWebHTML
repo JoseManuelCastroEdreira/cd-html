@@ -19,6 +19,6 @@
         <li>Segundo elemento numerado</li>
         <li>Tercer elemento numerado</li>
     </ol>
-    <a href="https://as.com">Nos vamos para la web de deportes mi rey</a>
+    <a href="https://as.com" target="_blank">Nos vamos para la web de deportes mi rey</a>
 </body>
 </html>
